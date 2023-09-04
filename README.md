@@ -19,7 +19,7 @@ https://teoec.dlmu.edu.cn/info/1062/3547.htm
 
 # Graduation Project Team Introduction:
 
-https://github.com/Issac1010/information.github.io
+( https://github.com/Issac1010/information.github.io )
 
 # Project progress
 
