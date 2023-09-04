@@ -2,7 +2,8 @@ Chasing Tide and dream
 
 Instructor:
 
-    Du,Hongwang https://teoec.dlmu.edu.cn/info/1062/3547.htm
+    Du,Hongwang 
+https://teoec.dlmu.edu.cn/info/1062/3547.htm
 
 Captain: 
 
