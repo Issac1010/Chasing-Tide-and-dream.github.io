@@ -19,13 +19,13 @@ https://teoec.dlmu.edu.cn/info/1062/3547.htm
 
 # Graduation Project Team Introduction:
 
-( https://github.com/Issac1010/information.github.io )
+https://issac1010.github.io/information.github.io/
 
 # Project progress
 
 Week 1 (27 August - 3 September) 
 
-https://github.com/Issac1010/week_1.github.io/tree/main
+https://issac1010.github.io/week_1.github.io/
 
 Week 2 (4 September - 10 September)
 
