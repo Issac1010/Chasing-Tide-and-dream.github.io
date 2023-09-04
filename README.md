@@ -19,5 +19,5 @@ Team members:
 
 Graduation Project Team Introduction:
 
-https://github.com/Issac1010/information.github.io
+https://information.github.io/
 
