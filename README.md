@@ -25,7 +25,7 @@ https://github.com/Issac1010/information.github.io
 
 Week 1 (27 August - 3 September) 
 
-
+https://github.com/Issac1010/week_1.github.io/tree/main
 
 Week 2 (4 September - 10 September)
 
