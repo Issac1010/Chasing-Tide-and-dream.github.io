@@ -1,4 +1,7 @@
-# Chasing Tide and dream
+# Chasing Tide and Dream
+
+![e6a1cae2a4d9db08344a10e9c200827](https://github.com/Issac1010/Chasing-Tide-and-dream.github.io/assets/143713302/2a76c509-71fb-4024-ab3d-8d7fdf0f3c2a)
+
 
 # Instructor:
 
