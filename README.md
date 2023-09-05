@@ -5,31 +5,31 @@
 
 # Instructor:
 
-    Du,Hongwang 
+    Du, Hongwang 
     
-<a href="https://teoec.dlmu.edu.cn/info/1062/3547.htm">Link</a>
+<a href="https://teoec.dlmu.edu.cn/info/1062/3547.htm">Click the link here to view instructor's information</a>
 
 # Captain: 
 
-    Zhang,Tongrui
+    Zhang, Tongrui
 
 # Team members: 
 
-    Gao,Mingyuan 
+    Gao, Mingyuan 
 
-    Cai,Bingang 
+    Cai, Bingang 
 
-    Sun,Xiwu
+    Sun, Xiwu
 
 # Graduation Project Team Introduction:
 
-https://issac1010.github.io/information.github.io/
+<a href="https://issac1010.github.io/information.github.io/">Click the link here to view our team's introduction</a>
 
 # Project progress
 
 Week 1 (27 August - 3 September) 
 
-https://issac1010.github.io/week_1.github.io/
+<a href="https://issac1010.github.io/week_1.github.io/">Click the link here to view the week 1 project progress</a>
 
 Week 2 (4 September - 10 September)
 
