@@ -6,21 +6,19 @@
 
 # Instructor:
 
-    Du, Hongwang 
-    
-<a href="https://teoec.dlmu.edu.cn/info/1062/3547.htm">Click the link here to view instructor's information</a>
+<a href="https://teoec.dlmu.edu.cn/info/1062/3547.htm">Du, Hongwang</a>
 
 # Captain: 
 
-    Zhang, Tongrui
+<a href="https://issac1010.github.io/ZTR.github.io/">Zhang, Tongrui</a>
 
 # Team members: 
 
-    Gao, Mingyuan 
+Gao, Mingyuan 
 
-    Cai, Bingang 
+<a href="https://issac1010.github.io/BingangCai.github.io/">Cai, Bingang</a>
 
-    Sun, Xiwu
+Sun, Xiwu
 
 # Graduation Project Team Introduction:
 
