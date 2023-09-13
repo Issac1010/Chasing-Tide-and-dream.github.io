@@ -1,4 +1,4 @@
-# Chasing Tide and Dream
+# Chasing Tide And Dream
 
 ![image](https://github.com/Issac1010/Chasing-Tide-and-dream.github.io/assets/143713302/079b5b9a-3cd3-41e7-b1c5-78a5e0904a5b)
 
@@ -26,11 +26,17 @@ Sun, Xiwu
 
 # Project progress
 
+Week 0 (20 August - 26 August)
+
+<a href="https://issac1010.github.io/week_0.github.io/">Click the link here to view the Week 0 project progress</a>
+
 Week 1 (27 August - 3 September) 
 
-<a href="https://issac1010.github.io/week_1.github.io/">Click the link here to view the week 1 project progress</a>
+<a href="https://issac1010.github.io/week_1.github.io/">Click the link here to view the Week 1 project progress</a>
 
 Week 2 (4 September - 10 September)
+
+<a href="https://issac1010.github.io/week_2.github.io/">Click the link here to view the Week 2 project progress</a>
 
 Week 3 (11 September - 17 September)
 
