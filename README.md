@@ -44,6 +44,8 @@ Week 3 (11 September - 17 September)
 
 Week 4 (18 September - 24 September)
 
+<a href="https://issac1010.github.io/week_4.github.io/">Click the link here to view the Week 4 project progress</a>
+
 Week 5 (25 September - 1 October)
 
 Coming soon......
