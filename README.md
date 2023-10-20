@@ -52,6 +52,16 @@ Sun, Xiwu
 
 <a href="https://issac1010.github.io/week_5.github.io/">Click the link here to view the Week 5 project progress</a>
 
-**Week 6** (1 October - 7 October)
+**Week 6** (2 October - 8 October)
+
+<a href="https://issac1010.github.io/week_6.github.io/">Click the link here to view the Week 6 project progress</a>
+
+**Week 7** (9 October - 15 October)
+
+<a href="https://issac1010.github.io/week_7.github.io/">Click the link here to view the Week 7 project progress</a>
+
+**Week 8** (15 October - 21 October)
+
+<a href="https://issac1010.github.io/week_8.github.io/">Click the link here to view the Week 8 project progress</a>
 
 Unfinished and to be continued...
