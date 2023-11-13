@@ -72,4 +72,8 @@ Sun, Xiwu
 
 <a href="https://issac1010.github.io/week_10.github.io/">Click the link here to view the Week 10 project progress</a>
 
+**Week 11** (6 November - 12 November)
+
+<a href="https://issac1010.github.io/week_11.github.io/">Click the link here to view the Week 11 project progress</a>
+
 Unfinished and to be continued...
