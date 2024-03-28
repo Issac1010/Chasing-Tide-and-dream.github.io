@@ -76,4 +76,8 @@ Sun, Xiwu
 
 <a href="https://issac1010.github.io/week_11.github.io/">Click the link here to view the Week 11 project progress</a>
 
+**STAGE TWO** (13 November, 2023 - 28 March, 2024)
+
+<a href="https://issac1010.github.io/stage_2.github.io/">Click the link here to view the stage two project progress</a>
+
 Unfinished and to be continued...
