@@ -80,4 +80,6 @@ Sun, Xiwu
 
 <a href="https://issac1010.github.io/stage_2.github.io/">Click the link here to view the stage two project progress</a>
 
-Unfinished and to be continued...
+**FINAL PROJECT**
+
+<a href="https://issac1010.github.io/final_work.io/">Click the link here to view the final project</a>
